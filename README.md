@@ -3,6 +3,7 @@
 
 Features:
 - based on original Sovol firmware (Marlin 2.0.9.2)
+- corrected probe offset
 - Filament runout sensor
 - fast Bed Leveling (under 1 minute)
 - Host Actions Commands activated
